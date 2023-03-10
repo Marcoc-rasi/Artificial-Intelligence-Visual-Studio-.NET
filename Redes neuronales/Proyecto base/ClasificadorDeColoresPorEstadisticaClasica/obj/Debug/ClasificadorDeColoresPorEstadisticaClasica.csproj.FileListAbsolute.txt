@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\ClasificadorDeColoresPorEstadisticaClasica.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\ClasificadorDeColoresPorEstadisticaClasica.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\ClasificadorDeColoresPorEstadisticaClasica.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\SpreadsheetLight.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\bin\Debug\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.csproj.CopyComplete
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\ClasificadorDeColoresPorEstadisticaClasica\obj\Debug\ClasificadorDeColoresPorEstadisticaClasica.pdb

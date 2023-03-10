@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\bin\Debug\net462\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\bin\Debug\net462\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\net462\Exodo.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\net462\Exodo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\net462\Exodo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\net462\Exodo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\net462\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\net462\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\net462\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\net462\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\net462\Exodo.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\net462\Exodo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\net462\Exodo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\net462\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\net462\Exodo.pdb
