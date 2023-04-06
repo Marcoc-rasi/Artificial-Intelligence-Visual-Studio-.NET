@@ -1,0 +1,9 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\bin\Debug\Media De Un Arreglo.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\bin\Debug\Media De Un Arreglo.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\bin\Debug\Media De Un Arreglo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\obj\Debug\Media De Un Arreglo.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\obj\Debug\Media_De_Un_Arreglo.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\obj\Debug\Media_De_Un_Arreglo.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\obj\Debug\Media De Un Arreglo.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\obj\Debug\Media De Un Arreglo.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Media De Un Arreglo\obj\Debug\Media De Un Arreglo.pdb

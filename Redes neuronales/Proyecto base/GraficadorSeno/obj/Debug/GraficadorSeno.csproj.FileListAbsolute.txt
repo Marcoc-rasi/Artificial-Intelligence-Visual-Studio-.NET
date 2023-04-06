@@ -1,0 +1,23 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\bin\Debug\GraficadorSeno.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\bin\Debug\GraficadorSeno.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\bin\Debug\GraficadorSeno.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\bin\Debug\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csproj.CopyComplete
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\bin\Debug\GraficadorSeno.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\bin\Debug\GraficadorSeno.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\bin\Debug\GraficadorSeno.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\bin\Debug\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.csproj.CopyComplete
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\GraficadorSeno\obj\Debug\GraficadorSeno.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxq50Kv0R1628uono+rMyAdxsxjbjFZIKboYhaaYFAt5Xe4KfxBjxN1L/44CvumV8iuQH/7zT5m0iAHS9opBZA==",
+  "success": true,
+  "projectFilePath": "E:\\Uriel\\italia\\Inteligencia Artificial\\Redes neuronales\\Proyecto base\\ClasificadorColoresPorNeuronas\\ClasificadorColoresPorNeuronas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uriel\\.nuget\\packages\\spreadsheetlight\\3.4.11\\spreadsheetlight.3.4.11.nupkg.sha512"
+  ],
+  "logs": []
+}

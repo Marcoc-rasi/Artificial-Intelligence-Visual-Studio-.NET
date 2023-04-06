@@ -1,0 +1,13 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\bin\Debug\RedNeuronal_Separador_De_grupos.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\bin\Debug\RedNeuronal_Separador_De_grupos.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\bin\Debug\RedNeuronal_Separador_De_grupos.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\bin\Debug\SpreadsheetLight.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\bin\Debug\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\bin\Debug\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.csproj.CopyComplete
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\RedNeuronal_Separador_De_grupos\obj\Debug\RedNeuronal_Separador_De_grupos.pdb

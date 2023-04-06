@@ -1,0 +1,17 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.deps.json
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion I\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.deps.json
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\obj\Debug\netcoreapp2.1\Exodo.pdb

@@ -1,0 +1,11 @@
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\bin\Release\TrianguloMagico.exe.config
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\bin\Release\TrianguloMagico.exe
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\bin\Release\TrianguloMagico.pdb
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.csproj.SuggestedBindingRedirects.cache
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.Form1.resources
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.Properties.Resources.resources
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.csproj.GenerateResource.cache
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.exe
+C:\Users\uriel\source\repos\TrianguloMagico\TrianguloMagico\obj\Release\TrianguloMagico.pdb

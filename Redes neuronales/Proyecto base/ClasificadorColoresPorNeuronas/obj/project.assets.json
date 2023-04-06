@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpreadsheetLight/3.4.11": {
+      "sha512": "uyiiMpucEcaQi+A8ZoLlX6FS70X+JIDKkt9cELRZdJDUOOThpPrptSCQm+jwKFzl0pHOCA3gXaejm/Datc1Kjg==",
+      "type": "package",
+      "path": "spreadsheetlight/3.4.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/SpreadsheetLight.dll",
+        "lib/net40/SpreadsheetLight.xml",
+        "spreadsheetlight.3.4.11.nupkg.sha512",
+        "spreadsheetlight.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "SpreadsheetLight >= 3.4.11"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\uriel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Uriel\\italia\\Inteligencia Artificial\\Redes neuronales\\Proyecto base\\ClasificadorColoresPorNeuronas\\ClasificadorColoresPorNeuronas.csproj",
+      "projectName": "ClasificadorColoresPorNeuronas",
+      "projectPath": "E:\\Uriel\\italia\\Inteligencia Artificial\\Redes neuronales\\Proyecto base\\ClasificadorColoresPorNeuronas\\ClasificadorColoresPorNeuronas.csproj",
+      "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
+      "outputPath": "E:\\Uriel\\italia\\Inteligencia Artificial\\Redes neuronales\\Proyecto base\\ClasificadorColoresPorNeuronas\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\uriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "SpreadsheetLight": {
+            "target": "Package",
+            "version": "[3.4.11, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

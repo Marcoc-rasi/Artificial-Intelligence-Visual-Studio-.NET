@@ -1,0 +1,19 @@
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\bin\Debug\Prueba consolaa.exe.config
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\bin\Debug\Prueba consolaa.exe
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\bin\Debug\Prueba consolaa.pdb
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba_consolaa.Form1.resources
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba_consolaa.Properties.Resources.resources
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.exe
+C:\Users\alumnos\source\repos\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\bin\Debug\Prueba consolaa.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\bin\Debug\Prueba consolaa.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\bin\Debug\Prueba consolaa.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\obj\Debug\Prueba_consolaa.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\obj\Debug\Prueba_consolaa.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Prueba consolaa\obj\Debug\Prueba consolaa.pdb

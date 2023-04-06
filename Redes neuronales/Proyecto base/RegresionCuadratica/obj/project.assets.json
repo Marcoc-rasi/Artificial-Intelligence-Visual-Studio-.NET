@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "SpreadsheetLight/3.4.11": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SpreadsheetLight.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpreadsheetLight/3.4.11": {
+      "sha512": "uyiiMpucEcaQi+A8ZoLlX6FS70X+JIDKkt9cELRZdJDUOOThpPrptSCQm+jwKFzl0pHOCA3gXaejm/Datc1Kjg==",
+      "type": "package",
+      "path": "spreadsheetlight/3.4.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/SpreadsheetLight.dll",
+        "lib/net40/SpreadsheetLight.xml",
+        "spreadsheetlight.3.4.11.nupkg.sha512",
+        "spreadsheetlight.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "SpreadsheetLight >= 3.4.11"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Marcos\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\RegresionCuadratica.csproj",
+      "projectName": "RegresionCuadratica",
+      "projectPath": "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\RegresionCuadratica.csproj",
+      "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegrecionCuadratica\\bin\\Debug": {},
+        "https://api.nuget.org": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "SpreadsheetLight": {
+            "target": "Package",
+            "version": "[3.4.11, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.Form1.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\bin\Debug\NeuronaArtificialMonocapa.exe.config
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\bin\Debug\NeuronaArtificialMonocapa.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\bin\Debug\NeuronaArtificialMonocapa.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\bin\Debug\SpreadsheetLight.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\bin\Debug\Exodo.dll
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\bin\Debug\Exodo.pdb
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.csproj.CopyComplete
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.exe
+C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\NeuronaArtificialMonocapa\obj\Debug\NeuronaArtificialMonocapa.pdb

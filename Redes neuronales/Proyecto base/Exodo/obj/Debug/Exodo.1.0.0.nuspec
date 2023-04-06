@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Exodo</id>
+    <version>1.0.0</version>
+    <authors>Exodo</authors>
+    <owners>Exodo</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2" />
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\net462\Exodo.dll" target="lib\net462\Exodo.dll" />
+    <file src="C:\Users\Marcos\Documents\Escuela\Temas Selectos De Programacion\Proyecto base\Exodo\bin\Debug\netcoreapp2.1\Exodo.dll" target="lib\netcoreapp2.1\Exodo.dll" />
+  </files>
+</package>

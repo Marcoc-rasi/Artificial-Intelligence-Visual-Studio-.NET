@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\RegresionCuadratica.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\RegresionCuadratica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\RegresionCuadratica.csproj",
+        "projectName": "RegresionCuadratica",
+        "projectPath": "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\RegresionCuadratica.csproj",
+        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegresionCuadratica\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Marcos\\Documents\\Escuela\\Temas Selectos De Programacion\\Proyecto base\\RegrecionCuadratica\\bin\\Debug": {},
+          "https://api.nuget.org": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "SpreadsheetLight": {
+              "target": "Package",
+              "version": "[3.4.11, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

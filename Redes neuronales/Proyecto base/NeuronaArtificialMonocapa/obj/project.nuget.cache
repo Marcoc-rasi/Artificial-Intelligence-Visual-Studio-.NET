@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iv44kFKHWc11dSxIbS0Y91xhn/1faNASbi7osvy5GXZWV1v/0whm/hRCSuotCNc2aJ38XYjaySKZL7ZlWM9xHw==",
+  "success": true,
+  "projectFilePath": "E:\\Uriel\\italia\\Inteligencia Artificial\\Redes neuronales\\Proyecto base\\NeuronaArtificialMonocapa\\NeuronaArtificialMonocapa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uriel\\.nuget\\packages\\spreadsheetlight\\3.4.11\\spreadsheetlight.3.4.11.nupkg.sha512"
+  ],
+  "logs": []
+}
