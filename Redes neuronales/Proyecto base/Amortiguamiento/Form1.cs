@@ -20,7 +20,7 @@ namespace Amortiguamiento
         {
             InitializeComponent();
         }
-        private void plotm(double[] xRealPlot, double[] yRealPlot,double[] xPropuestaPlot,double[] yPropuestaPlot)
+        prublic void plotm(double[] xRealPlot, double[] yRealPlot,double[] xPropuestaPlot,double[] yPropuestaPlot)
         {
             int conteo = 0;
             plotini();
@@ -47,7 +47,7 @@ namespace Amortiguamiento
                 {
                     for (int o = 0; o < yPropuestaPlot.Length; o++)
                     {
-                        series.Points.AddXY(xPropuestaPlot, yPropuestaPlot[o]);
+                        series.Points.AddXY(xPropuestaPlot[o], yPropuestaPlot[o]);
                     }
                 }
             }
@@ -77,9 +77,9 @@ namespace Amortiguamiento
         {
             chartGraficaAmortiguamiento.Series[0].ChartType = SeriesChartType.Spline;
             chartGraficaAmortiguamiento.Series[0].IsVisibleInLegend = false;
-            chartGraficaAmortiguamiento.Series[1].ChartType = SeriesChartType.Spline;
-            chartGraficaAmortiguamiento.Series[1].IsVisibleInLegend = false;
-            chartGraficaAmortiguamiento.Series[1].Color = 
+            /*chartGraficaAmortiguamiento.Series[1].ChartType = SeriesChartType.Spline;
+            chartGraficaAmortiguamiento.Series[1].IsVisibleInLegend = false;*/
+            chartGraficaAmortiguamiento.Series[0].Color = Color.Blue;
 
         }
         private void AproximarRecta_Click(object sender, EventArgs e)
@@ -179,6 +179,7 @@ namespace Amortiguamiento
                                                 ECMminimo = ECMDescenso;
                                                 txtA.Text = Convert.ToString(A);
                                                 txtV0.Text = Convert.ToString(ConstanteAmortiguamiento);
+                                                plotm(xReal, yReal,xPropuesta,yPropuesta);
                                             }
                                         }
                                     }
