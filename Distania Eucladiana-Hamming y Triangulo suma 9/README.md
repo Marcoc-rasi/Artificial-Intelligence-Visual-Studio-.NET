@@ -1,0 +1,6 @@
+# Clasificacion animales por distancia
+
+El algoritmo del vecino más cercano es un algoritmo de aprendizaje supervisado no paramétrico que se utiliza para clasificar o predecir la agrupación de un punto de datos individual. Este algoritmo utiliza la proximidad para hacer clasificaciones o predicciones1.Use el algoritmo del vecino más cercano para clasificar animales según sus características biológicas. El algoritmo podría calcular la proximidad entre los animales utilizando métricas como la distancia de Hamming y la distancia euclidiana y luego asignar una etiqueta de clase a cada animal en función de su proximidad a otros animales con características biológicas similares.
+El proyecto incluye una carpeta llamada “Originales” de donde se extraen las características de los animales clasificados y los que aun no lo están, dentro de las carpetas “Distancia Hamming” Y “Distancia Euclidiana”, se encuentran los resultados de la clasificación del algoritmo, dependiendo que algoritmo de distancia elegiste, lucen así ------> ![alt text]( https://github.com/Marcoc-rasi/Artificial-Intelligence-Visual-Studio-.NET/blob/main/Distania%20Eucladiana-Hamming%20y%20Triangulo%20suma%209/Clasificacion%20animales%20por%20distancia/Videos/Clasificacion%20animales%20por%20distancia.png?raw=true) 
+
+# Triangulo
