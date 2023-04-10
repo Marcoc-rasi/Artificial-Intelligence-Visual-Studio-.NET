@@ -11,4 +11,4 @@ To solve the puzzle, the program follows certain preconditions and uses specific
 
 The operators available to solve the puzzle include marking numbers as available or unavailable and placing numbers at the corners and center of the triangle. The program uses these tools to find a solution to the puzzle and display it to the user.
 
-All the information, as well as desktop tests are inside the folders, check the additional information to better understand how I solved the puzzle with visual studio and c# I leave you an image of the user interface. ![alt text]( https://github.com/Marcoc-rasi/Artificial-Intelligence-Visual-Studio-.NET/blob/main/Distania%20Eucladiana-Hamming%20y%20Triangulo%20suma%209/Triangulo/Triangulo.png?raw=true)
+All the information, as well as desktop tests are inside the folders, check the additional information to better understand how I solved the puzzle with Visual studio and C# I leave you an image of the user interface. ![alt text]( https://github.com/Marcoc-rasi/Artificial-Intelligence-Visual-Studio-.NET/blob/main/Distania%20Eucladiana-Hamming%20y%20Triangulo%20suma%209/Triangulo/Triangulo.png?raw=true)
