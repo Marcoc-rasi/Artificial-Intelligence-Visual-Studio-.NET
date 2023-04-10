@@ -6,7 +6,7 @@ This folder contains two projects “Animal classification by distance” and �
 # Animal classification by distance
 
 This project is used to classify animals, initially we are given two Excel files, the first contains animals classified according to certain characteristics, the second contains unclassified animals. The goal is to classify all the animals.
-The program classifies based on two algorithms, one is by Haming distance and the other by Euclidean distance. When running the program and classifying, you can decide which of the two methods will be used.
+The program classifies based on two algorithms of the nearest neighbor, one is by Haming distance and the other by Euclidean distance. When running the program and classifying, you can decide which of the two methods will be used.
 When the information is classified, it is stored in Excel files and stored in the folders "Hamming Distance" and "Euclidean Distance"
 It is possible that the program fails if the access paths to the initial Excel documents are not modified, or to the folders mentioned above, it is recommended to change the addresses manually, videos that explain the operation of the program have also been added.
 
